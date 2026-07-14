@@ -9,6 +9,7 @@ Dostupné soubory slouží jako praktický návod a implementační skript pro n
 ### 📄 `Wazuh - základní instalace.pdf`
 **Dokumentace a návod pro nasazení centrálních komponent**
 * Podrobný technický průvodce instalací platformy Wazuh v distribuované architektuře na virtuální stroje (VM).
+* IP adresy a DNS názvy jsou FIKTIVNÍ, je potřeba si to upravit podle vlastní infrastrutury pro nasazení.
 * Zahrnuje přípravu operačního systému, instalaci prerekvizit, generování interních certifikátů a konfiguraci jednotlivých uzlů: Wazuh Indexer, Wazuh Manager (včetně komponenty Filebeat) a webového rozhraní Wazuh Dashboard.
 * Obsahuje také ověření funkčnosti po instalaci a řešení možných problémů (troubleshooting).
 
